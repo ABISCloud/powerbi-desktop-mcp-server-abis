@@ -14,9 +14,7 @@ If you've ever wished you could say "Explain this model" or "Show the lineage of
 
 Watch our quick tutorial to see the Power BI Desktop MCP Server in action:
 
-<div style="width: 100%;">
-  <iframe width="100%" height="500" src="https://www.youtube.com/embed/Xmu1JnsQdB4?start=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+👉 **[Getting started in 10 Minutes with Agentic BI](https://www.youtube.com/watch?v=Xmu1JnsQdB4&t=1s)**
 
 ---
 
