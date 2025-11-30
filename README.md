@@ -6,7 +6,9 @@
 
 The **Power BI Desktop MCP Server** is the first **AI-native bridge** that lets Claude, GPT, and other MCP-compatible assistants *understand, explore, and even modify* your Power BI models using natural language.
 
-If you've ever wished you could say "Explain this model" or "Optimize this measure," this is for you.
+If you've ever wished you could say "Explain this model" or "Show the lineage of power query tables," this is for you.
+
+![Power BI Desktop MCP Server](Asssets/Screenshots/Screenshot%202025-11-30%20053651.png)
 
 ---
 
@@ -102,9 +104,11 @@ Want to shape these features? Reach out—details at the bottom.
 3. Ask things like:
 
    * "List all measures"
-   * "Explain my model structure"
+   * "Explain my report structure"
    * "Generate documentation for this model"
    * "Run a DAX query: EVALUATE Sales"
+
+![Usage Example](Asssets/Screenshots/Screenshot%202025-11-30%20071302.png)
 
 ---
 
@@ -125,6 +129,8 @@ We welcome contributors, ideas, testers, and early adopters.
 👉 **Or open an issue:**
 
 [https://github.com/ABISCloud/powerbi-desktop-mcp-server-abis-sidecar/issues](https://github.com/ABISCloud/powerbi-desktop-mcp-server-abis-sidecar/issues)
+
+👉 **Follow us: [DBI Analytics](https://dbi-analytics.de/)**
 
 Let's build the future of AI-powered BI together.
 
@@ -165,6 +171,6 @@ Runs 100% locally. No data leaves your machine.
 
 MIT License — © 2024 ABIS B.V.
 
-Built with ❤️ for data people.
+Built with ❤️ from engineers for engineers.
 
 ---
